@@ -25,16 +25,7 @@ To set up and run the project locally, follow these steps:
    git clone https://github.com/your-username/random-password-generator.git
    cd random-password-generator
 2. npm install
-3. node app.js
+3. node app.js => http://localhost:3000
 
-## Project stucture
 
-random-password-generator
-├── public
-│   ├── css
-│   │   └── style.css      # Styling for the application
-│   ├── js
-│   │   └── script.js      # Frontend JavaScript logic
-│   └── index.html         # Main HTML file
-├── app.js                 # Express.js server logic
-├── package.json           # Node.js dependencies
+
